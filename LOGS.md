@@ -4,6 +4,15 @@ This document tracks all changes, architectural refactors, feature implementatio
 
 ---
 
+### [2026-08-17 09:13 PM] - Streamlined Concise README
+- **Files Modified**:
+  - [`README.md`](file:///C:/Users/Administrator/Documents/Equinox/README.md)
+  - [`LOGS.md`](file:///C:/Users/Administrator/Documents/Equinox/LOGS.md)
+- **Summary**:
+  - Refactored README.md into a high-impact, concise summary for public GitHub view, cross-linking detailed architectural specifications to [`AGENTS.md`](file:///C:/Users/Administrator/Documents/Equinox/AGENTS.md).
+
+---
+
 ### [2026-08-17 09:12 PM] - Professional GitHub README Documentation
 - **Files Modified/Created**:
   - [`README.md`](file:///C:/Users/Administrator/Documents/Equinox/README.md)

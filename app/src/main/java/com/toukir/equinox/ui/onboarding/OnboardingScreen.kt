@@ -337,9 +337,9 @@ fun OnboardingScreen(
                                     Column(modifier = Modifier.weight(1f)) {
                                         Text(
                                             text = if (uiState.isCustomStreak) {
-                                                stringResource(R.string.onboarding_streak_custom)
+                                                stringResource(R.string.onboarding_streak_past)
                                             } else {
-                                                stringResource(R.string.onboarding_streak_starting_now)
+                                                stringResource(R.string.onboarding_streak_now)
                                             },
                                             style = MaterialTheme.typography.titleSmall,
                                             fontWeight = FontWeight.SemiBold
@@ -351,7 +351,7 @@ fun OnboardingScreen(
                                         )
                                     }
                                     Text(
-                                        text = stringResource(R.string.action_change),
+                                        text = stringResource(R.string.action_edit),
                                         style = MaterialTheme.typography.labelMedium,
                                         color = MaterialTheme.colorScheme.primary,
                                         fontWeight = FontWeight.Bold
@@ -373,7 +373,7 @@ fun OnboardingScreen(
                                 )
                             ) {
                                 Text(
-                                    text = stringResource(R.string.onboarding_btn_start),
+                                    text = stringResource(R.string.action_get_started),
                                     style = MaterialTheme.typography.titleMedium,
                                     fontWeight = FontWeight.Bold
                                 )

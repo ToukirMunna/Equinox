@@ -377,7 +377,9 @@ fun SettingsScreen(
                                 Text(stringResource(R.string.settings_cloud_signout), color = MaterialTheme.colorScheme.error, style = MaterialTheme.typography.labelSmall)
                             }
                         }
-                    }                    if (!uiState.isUserSignedIn) {
+                    }
+
+                    if (!uiState.isUserSignedIn) {
                         Spacer(modifier = Modifier.height(14.dp))
                         Button(
                             onClick = {
@@ -402,7 +404,7 @@ fun SettingsScreen(
                             style = MaterialTheme.typography.bodySmall,
                             color = MaterialTheme.colorScheme.primary
                         )
-                    } }
+                    }
                 }
             }
 

@@ -26,9 +26,19 @@ android {
         }
     }
 
+    signingConfigs {
+        create("release") {
+            storeFile = file("equinox-release-key.jks")
+            storePassword = "equinox123456"
+            keyAlias = "equinox_release"
+            keyPassword = "equinox123456"
+        }
+    }
+
     buildTypes {
         release {
             isMinifyEnabled = false
+            signingConfig = signingConfigs.getByName("release")
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"

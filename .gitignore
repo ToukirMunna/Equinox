@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Keystore files (keep release key in git if intentional, but exclude debug keystore)
+# app/equinox-release-key.jks is committed if user wants repo self-contained
+
+# Output build artifacts
+app/build/
+build/

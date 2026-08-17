@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nordic Sanctuary: Light Palette -->
+    <color name="light_bg">#F8F6F0</color>
+    <color name="light_surface">#FFFFFF</color>
+    <color name="light_surface_variant">#EAE6DC</color>
+    <color name="light_primary">#1B4332</color>
+    <color name="light_on_primary">#FFFFFF</color>
+    <color name="light_secondary">#406A56</color>
+    <color name="light_accent">#D97736</color>
+    <color name="light_text_primary">#18201D</color>
+    <color name="light_text_secondary">#5A6560</color>
+    <color name="light_outline">#DDD8CD</color>
+
+    <!-- Nordic Sanctuary: Dark Palette -->
+    <color name="dark_bg">#121518</color>
+    <color name="dark_surface">#1B2026</color>
+    <color name="dark_surface_variant">#262D35</color>
+    <color name="dark_primary">#52B788</color>
+    <color name="dark_on_primary">#0F1E17</color>
+    <color name="dark_secondary">#74A892</color>
+    <color name="dark_accent">#E07A5F</color>
+    <color name="dark_text_primary">#EDF2F4</color>
+    <color name="dark_text_secondary">#8D99AE</color>
+    <color name="dark_outline">#2C353F</color>
+
+    <!-- Semantic Colors -->
+    <color name="victory_green">#2D6A4F</color>
+    <color name="relapse_red">#C64747</color>
+    <color name="slip_amber">#D97736</color>
+    <color name="reflection_blue">#3D5A80</color>
+</resources>

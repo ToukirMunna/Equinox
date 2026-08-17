@@ -1,0 +1,277 @@
+<resources>
+    <!-- App Information -->
+    <string name="app_name">Equinox</string>
+    <string name="app_tagline">Reclaim Balance, Fortitude &amp; Clarity</string>
+    <string name="app_version_label">Version 1.0.0</string>
+
+    <!-- General / Common Actions -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_done">Done</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_close">Close</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_continue">Continue</string>
+    <string name="action_get_started">Get Started</string>
+    <string name="action_add">Add</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Dashboard</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_logs">Logs</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Onboarding Flow -->
+    <string name="onboarding_welcome_title">Welcome to Equinox</string>
+    <string name="onboarding_welcome_desc">Your discrete, science-backed sanctuary for mastering urges and reclaiming control.</string>
+    <string name="onboarding_status_question">What is your relationship status?</string>
+    <string name="onboarding_status_hint">This personalizes your emergency to-dos, coping tips, and triggers.</string>
+    <string name="status_unmarried">Unmarried / Single</string>
+    <string name="status_unmarried_desc">Focus on self-mastery, energy redirection, and personal discipline.</string>
+    <string name="status_married">Married</string>
+    <string name="status_married_desc">Focus on emotional bond, bedroom boundaries, and partner connection.</string>
+    <string name="onboarding_streak_question">When did your clean streak begin?</string>
+    <string name="onboarding_streak_hint">Start fresh from right now, or set a past date if you already have an ongoing streak.</string>
+    <string name="onboarding_streak_now">Starting Right Now</string>
+    <string name="onboarding_streak_past">Set Past Date/Time</string>
+
+    <!-- Dynamic Greetings -->
+    <string name="greeting_morning">Rise with clarity and fortitude</string>
+    <string name="greeting_afternoon">Stay grounded and mindful today</string>
+    <string name="greeting_evening">Peaceful evening, hold your ground</string>
+    <string name="greeting_night">Quiet night, protect your sanctuary</string>
+
+    <!-- Dashboard / Home Tab -->
+    <string name="dashboard_clean_streak">Clean Abstinence Streak</string>
+    <string name="dashboard_time_days">Days</string>
+    <string name="dashboard_time_hours">Hours</string>
+    <string name="dashboard_time_mins">Mins</string>
+    <string name="dashboard_time_secs">Secs</string>
+    <string name="dashboard_ring_days_label">DAYS CLEAN</string>
+    <string name="dashboard_btn_urge">URGE HIT</string>
+    <string name="dashboard_btn_relapse">RELAPSE</string>
+    <string name="dashboard_milestone_title">Current Milestone</string>
+    <string name="dashboard_milestone_next">Next Milestone: %1$s</string>
+    <string name="dashboard_stat_slips">Porn Slips</string>
+    <string name="dashboard_stat_urges_won">Urges Defeated</string>
+    <string name="dashboard_stat_best_streak">Best Streak</string>
+    <string name="dashboard_stat_win_rate">Urge Win Rate</string>
+    <string name="dashboard_stat_time_saved">Time Reclaimed</string>
+    <string name="dashboard_stat_time_saved_format">~%1$dh Saved</string>
+    <string name="dashboard_days_format">%1$d Days</string>
+    <string name="dashboard_pulse_title">7-Day Fortitude Pulse</string>
+    <string name="dashboard_pulse_clean">Clean</string>
+    <string name="dashboard_pulse_slip">Slip</string>
+    <string name="dashboard_pulse_relapse">Relapse</string>
+    <string name="dashboard_vulnerability_title">Primary Vulnerability</string>
+    <string name="dashboard_vulnerability_none">No recurring triggers logged. Fortress intact.</string>
+    <string name="dashboard_vulnerability_format">%1$s (%2$d logs)</string>
+
+    <!-- Milestones -->
+    <string name="milestone_24h">24 Hours (The First Horizon)</string>
+    <string name="milestone_3d">3 Days (Dopamine Reset)</string>
+    <string name="milestone_7d">7 Days (Clarity Awakening)</string>
+    <string name="milestone_14d">14 Days (Building Fortitude)</string>
+    <string name="milestone_30d">30 Days (Neural Rewiring)</string>
+    <string name="milestone_60d">60 Days (Unshakable Will)</string>
+    <string name="milestone_90d">90 Days (Equinox Mastery)</string>
+
+    <!-- Urge Emergency SOS & Breathing -->
+    <string name="urge_title">Urge Emergency Mode</string>
+    <string name="urge_subtitle">Pause. Breathe. Reclaim conscious control.</string>
+    <string name="urge_step_breathing">Step 1: Box Breathing (Navy SEAL 4×4 Protocol)</string>
+    <string name="urge_breath_inhale">Inhale</string>
+    <string name="urge_breath_hold_in">Hold Full</string>
+    <string name="urge_breath_exhale">Exhale</string>
+    <string name="urge_breath_hold_out">Rest Empty</string>
+    <string name="urge_breath_seconds_left">%1$ds</string>
+    <string name="urge_breath_cycle_count">Cycle %1$d • Grounding Nervous System</string>
+    <string name="urge_breath_pause">Pause</string>
+    <string name="urge_breath_resume">Resume</string>
+    <string name="urge_breath_inhale_hint">Expand chest &amp; draw in calm clarity</string>
+    <string name="urge_breath_hold_in_hint">Retain oxygen &amp; embrace stillness</string>
+    <string name="urge_breath_exhale_hint">Release physical tension &amp; cravings</string>
+    <string name="urge_breath_hold_out_hint">Rest empty in pure awareness</string>
+    <string name="urge_breath_phase_1">1. Inhale (4s)</string>
+    <string name="urge_breath_phase_2">2. Hold (4s)</string>
+    <string name="urge_breath_phase_3">3. Exhale (4s)</string>
+    <string name="urge_breath_phase_4">4. Rest (4s)</string>
+    <string name="urge_step_actions">Step 2: Action Protocol</string>
+    <string name="urge_step_actions_desc">Check off physical micro-actions to interrupt dopamine craving loops:</string>
+    <string name="urge_step_quote">Step 3: Perspective &amp; Motivation</string>
+    <string name="urge_btn_suppressed">Urge Overcome</string>
+    <string name="urge_btn_relapsed">I Relapsed</string>
+    <string name="urge_victory_title">Victory Recorded!</string>
+    <string name="urge_victory_desc">You successfully broke the loop. Your fortitude is growing stronger.</string>
+
+    <!-- Default Emergency To-Dos -->
+    <string name="todo_cold_water">Drink a large glass of ice-cold water</string>
+    <string name="todo_wash_face">Wash face with cold water or take a quick cold shower</string>
+    <string name="todo_pushups">Do 20 push-ups or 30 jumping jacks right now</string>
+    <string name="todo_leave_room">Leave the room / get out of bed immediately</string>
+    <string name="todo_phone_away">Place phone in another room or turn off screen</string>
+    <string name="todo_step_outside">Step outside or open the window for fresh air</string>
+    <string name="todo_married_partner">Sit with spouse or start a conversation</string>
+    <string name="todo_married_bedroom">Move away from isolated bedroom/bathroom</string>
+
+    <!-- Relapse / Slip Dialog & Form -->
+    <string name="relapse_sheet_title">Log Event &amp; Reflection</string>
+    <string name="relapse_type_label">What type of event occurred?</string>
+    <string name="relapse_type_full">Full Relapse (PMO)</string>
+    <string name="relapse_type_full_sub">Porn &amp; Masturbation. Resets main streak.</string>
+    <string name="relapse_type_slip">Porn Only / Slip (No M)</string>
+    <string name="relapse_type_slip_sub">Peeking/Edging. Keeps main streak; records slip.</string>
+    <string name="relapse_time_label">When did this happen?</string>
+    <string name="relapse_time_now">Just Now</string>
+    <string name="relapse_time_past">In the Past (Retroactive)</string>
+    <string name="relapse_pick_datetime">Select Date &amp; Time</string>
+    <string name="relapse_trigger_label">Primary Trigger / Situation</string>
+    <string name="trigger_stress">Stress &amp; Anxiety</string>
+    <string name="trigger_boredom">Boredom &amp; Idleness</string>
+    <string name="trigger_late_night">Late Night Screen Time</string>
+    <string name="trigger_social_media">Social Media / Scrolling</string>
+    <string name="trigger_loneliness">Loneliness / Isolation</string>
+    <string name="trigger_fatigue">Fatigue &amp; Exhaustion</string>
+    <string name="trigger_partner_conflict">Spousal / Relationship Stress</string>
+    <string name="trigger_other">Other / Custom</string>
+    <string name="relapse_notes_label">Reflection &amp; Lessons Learned (Optional)</string>
+    <string name="relapse_notes_hint">What was the weak link? What can be changed next time?</string>
+    <string name="relapse_submit">Log &amp; Continue</string>
+
+    <!-- Logs & Journal Tab -->
+    <string name="logs_title">Logs &amp; Reflections</string>
+    <string name="filter_all">All</string>
+    <string name="filter_relapses">Relapses</string>
+    <string name="filter_urges">Urges Won</string>
+    <string name="filter_slips">Porn Slips</string>
+    <string name="filter_reflections">Reflections</string>
+    <string name="logs_empty_title">No Records Yet</string>
+    <string name="logs_empty_desc">Your urge victories, reflections, and logged events will appear here.</string>
+    <string name="logs_add_journal_fab">New Reflection</string>
+    <string name="journal_dialog_title">Write Reflection</string>
+    <string name="journal_dialog_hint">How are you feeling today? Any temptations or victories?</string>
+    <string name="log_type_full_relapse">Full Relapse</string>
+    <string name="log_type_slip">Porn-Only Slip</string>
+    <string name="log_type_urge_won">Urge Overcome</string>
+    <string name="log_type_reflection">Reflection</string>
+    <string name="log_actions_completed">Actions Completed:</string>
+    <string name="log_actions_skipped">Actions Skipped / Not Tried:</string>
+    <string name="log_trigger_prefix">Trigger: %1$s</string>
+    <string name="urge_actions_progress">%1$d of %2$d actions completed</string>
+    <string name="timeline_expand">Show details</string>
+    <string name="timeline_collapse">Hide details</string>
+
+    <!-- Settings Tab -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_section_profile">Profile &amp; Context</string>
+    <string name="settings_status_title">Relationship Status</string>
+    <string name="settings_status_desc">Current: %1$s</string>
+    <string name="settings_section_todos">Emergency Protocol To-Dos</string>
+    <string name="settings_manage_todos">Manage Urge Action Items</string>
+    <string name="settings_manage_todos_desc">Customize checklist items shown during urge SOS</string>
+    <string name="settings_add_todo">Add Action Item</string>
+    <string name="settings_todo_input_hint">e.g., Splash cold water on eyes</string>
+    <string name="settings_section_quotes">Quotes &amp; Affirmations</string>
+    <string name="settings_manage_quotes">Manage Motivational Quotes</string>
+    <string name="settings_manage_quotes_desc">Personalize reminders shown during urge intervention</string>
+    <string name="settings_add_quote">Add Quote</string>
+    <string name="settings_quote_text_hint">Quote or personal reason to stay clean</string>
+    <string name="settings_quote_author_hint">Author or source (optional)</string>
+    <string name="settings_section_data">Streak &amp; Data Management</string>
+    <string name="settings_adjust_streak">Adjust Streak Start Date</string>
+    <string name="settings_adjust_streak_desc">Manually calibrate your active streak timestamp</string>
+    <string name="settings_reset_all">Reset All Local Data</string>
+    <string name="settings_reset_all_confirm">Are you sure? This will delete all local streaks and logs.</string>
+    <string name="settings_section_cloud">Cloud Backup &amp; Sync</string>
+    <string name="settings_cloud_google_signin">Google Sign-In</string>
+    <string name="settings_cloud_signin_desc">Sign in with Google to backup your streak and history</string>
+    <string name="settings_cloud_signed_in">Signed in as: %1$s</string>
+    <string name="settings_cloud_signout">Sign Out</string>
+    <string name="settings_cloud_sync_now">Backup to Cloud Now</string>
+    <string name="settings_cloud_restore">Restore from Cloud</string>
+    <string name="settings_cloud_last_sync">Last synced: %1$s</string>
+    <string name="settings_cloud_sync_success">Backup completed successfully!</string>
+    <string name="settings_cloud_restore_success">Data restored successfully from cloud!</string>
+    <string name="settings_section_display">Display &amp; Appearance</string>
+    <string name="settings_progress_ring_title">Dashboard Progress Ring</string>
+    <string name="settings_progress_ring_desc">Show circular orbit progress ring on Dashboard</string>
+    <string name="settings_section_theme">Theme Mode</string>
+    <string name="settings_theme_system">System Default</string>
+    <string name="settings_theme_light">Eye-Soothing Light (Warm Linen)</string>
+    <string name="settings_theme_dark">Warm Slate Dark (Low Glare)</string>
+    <string name="settings_section_about">About Equinox</string>
+    <string name="settings_privacy_note">Equinox is 100% private. Your data belongs only to you.</string>
+
+    <!-- Analytics & Statistics Tab -->
+    <string name="analytics_title">Analytics &amp; Insights</string>
+    <string name="analytics_subtitle">Patterns, consistency &amp; recovery metrics</string>
+    <string name="analytics_cal_selected_date">Logs for %1$s</string>
+    <string name="analytics_cal_no_events">No slips or relapses recorded on this day. 100% Clean.</string>
+    <string name="analytics_section_cravings_time">Time-of-Day Vulnerability Matrix</string>
+    <string name="analytics_time_morning">Morning (5am - 12pm)</string>
+    <string name="analytics_time_afternoon">Afternoon (12pm - 5pm)</string>
+    <string name="analytics_time_evening">Evening (5pm - 10pm)</string>
+    <string name="analytics_time_night">Night (10pm - 5am)</string>
+    <string name="analytics_section_weekday_risk">Day-of-Week Temptation Pattern</string>
+    <string name="analytics_weekday_safest">Safest: %1$s</string>
+    <string name="analytics_weekday_riskiest">High Risk: %1$s</string>
+    <string name="analytics_section_cycle_length">Abstinence Cycle Analysis</string>
+    <string name="analytics_avg_streak_label">Average Clean Span Between Slips</string>
+    <string name="analytics_avg_streak_format">%1$.1f Days</string>
+    <string name="analytics_section_protocol_rankings">Action Protocol Effectiveness</string>
+    <string name="analytics_protocol_rate_format">%1$d%% Success (%2$d/%3$d won)</string>
+    <string name="analytics_section_triggers">Root-Cause Triggers Distribution</string>
+
+    <!-- Urge Surfing & SOS Contact -->
+    <string name="urge_mode_breathing">Box Breathing</string>
+    <string name="urge_mode_surfing">15m Urge Surfer</string>
+    <string name="urge_surfing_title">15-Minute Craving Decay Wave</string>
+    <string name="urge_surfing_desc">Cravings peak between 3–5 minutes and naturally dissolve within 15 minutes. Ride the physical wave without reacting.</string>
+    <string name="urge_surfing_milestone_1">Starting Wave • Focus on physical sensation</string>
+    <string name="urge_surfing_milestone_2">Peak Craving Zone • Breathe through tension</string>
+    <string name="urge_surfing_milestone_3">Peak Dissolving • Dopamine receptors resetting</string>
+    <string name="urge_surfing_milestone_4">Wave Subsided • Full conscious control reclaimed</string>
+    <string name="urge_contact_partner_btn">Reach Accountability Partner</string>
+    <string name="urge_contact_action_call">Call Contact</string>
+    <string name="urge_contact_action_sms">Send SOS SMS</string>
+    <string name="urge_contact_sms_body">Hey, I am experiencing a strong urge right now and need accountability support.</string>
+
+    <!-- Month-over-Month & HALT Analytics -->
+    <string name="analytics_mom_title">Month-over-Month Fortitude</string>
+    <string name="analytics_mom_current">This Month: %1$.1f%% Clean</string>
+    <string name="analytics_mom_prev">Last Month: %1$.1f%% Clean</string>
+    <string name="analytics_mom_change_up">▲ +%1$.1f%% vs last month</string>
+    <string name="analytics_mom_change_down">▼ -%1$.1f%% vs last month</string>
+    <string name="analytics_mom_change_neutral">Consistent with last month</string>
+    <string name="analytics_halt_title">HALT Vulnerability Matrix</string>
+    <string name="analytics_halt_hungry">Hungry / Physical Depletion</string>
+    <string name="analytics_halt_angry">Angry / Frustration &amp; Stress</string>
+    <string name="analytics_halt_lonely">Lonely / Isolated</string>
+    <string name="analytics_halt_tired">Tired / Late Night Fatigue</string>
+
+    <!-- Logs Search & Mood -->
+    <string name="logs_search_hint">Search reflections, notes &amp; triggers…</string>
+    <string name="journal_mood_label">Current Mindset &amp; Energy</string>
+    <string name="mood_anxious">Anxious</string>
+    <string name="mood_low">Low Energy</string>
+    <string name="mood_neutral">Steady</string>
+    <string name="mood_grounded">Grounded</string>
+    <string name="mood_empowered">Empowered</string>
+
+    <!-- Settings Security & Local Backup -->
+    <string name="settings_section_security">Security &amp; Privacy</string>
+    <string name="settings_biometric_title">Biometric App Lock</string>
+    <string name="settings_biometric_desc">Require fingerprint, face, or device PIN to access Equinox</string>
+    <string name="settings_section_backup">Offline Data Portability</string>
+    <string name="settings_export_backup">Export Backup (JSON)</string>
+    <string name="settings_export_backup_desc">Export all logs, streaks, and settings to a local JSON file</string>
+    <string name="settings_import_backup">Restore Backup (JSON)</string>
+    <string name="settings_import_backup_desc">Restore data from an Equinox backup file</string>
+    <string name="settings_backup_exported_success">Backup successfully saved to storage!</string>
+    <string name="settings_backup_imported_success">Data successfully restored from backup!</string>
+    <string name="settings_backup_error">Unable to process backup file.</string>
+    <string name="biometric_prompt_title">Unlock Equinox</string>
+    <string name="biometric_prompt_subtitle">Confirm identity to access your private recovery space</string>
+</resources>

@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "525295035095",
+    "project_id": "my-apps-toukir",
+    "storage_bucket": "my-apps-toukir.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525295035095:android:f123b04986431b0a474692",
+        "android_client_info": {
+          "package_name": "com.aistudio.streaktracker.aebkqv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525295035095-m4klmis4isgp3jn6hdoe5oop1c5um1tt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistudio.streaktracker.aebkqv",
+            "certificate_hash": "7077701c396b4df58b8661480c4cdb41587d1d3c"
+          }
+        },
+        {
+          "client_id": "525295035095-nbavk34js6dlf7klkkm8n42atemcvaep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistudio.streaktracker.aebkqv",
+            "certificate_hash": "d6cf75af5eb2eadad511916bc9e62ccc55ddea90"
+          }
+        },
+        {
+          "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RHnWWdLe68TvD8ix_EsUwcm5VlwnoWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525295035095:android:bcacb2e437285cec474692",
+        "android_client_info": {
+          "package_name": "com.toukir.equinox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525295035095-78fch037tst16b2nhtnsnlf4i9cq512s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toukir.equinox",
+            "certificate_hash": "44baaa01be7a3e02b6dc1a366f141bdf41f4114c"
+          }
+        },
+        {
+          "client_id": "525295035095-b76dsrg4epl5cn9tn865vnqbqn1ae32m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toukir.equinox",
+            "certificate_hash": "596711dd7023dc1e517b75b999cf9f31acc5d781"
+          }
+        },
+        {
+          "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RHnWWdLe68TvD8ix_EsUwcm5VlwnoWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525295035095:android:f53a9a45b3c0e519474692",
+        "android_client_info": {
+          "package_name": "com.toukir.mydiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525295035095-01qnl1dp87klkb30t13akp9hr5sgtehp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toukir.mydiary",
+            "certificate_hash": "474d5f57fca5d956e6a8d17d12a3e9aa02a456e3"
+          }
+        },
+        {
+          "client_id": "525295035095-bm58neqt4hkavganpdphpbos65r32ac4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toukir.mydiary",
+            "certificate_hash": "a737101e92556018ab00c2e677bae009dd958b0d"
+          }
+        },
+        {
+          "client_id": "525295035095-earkbh0eqfjjl168o81lt7d98qsqfpt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toukir.mydiary",
+            "certificate_hash": "50b58753528e09c15a418748715deaec730ded9f"
+          }
+        },
+        {
+          "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RHnWWdLe68TvD8ix_EsUwcm5VlwnoWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525295035095:android:e1ee108d5c5e9f53474692",
+        "android_client_info": {
+          "package_name": "com.toukir.tasbeeh.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525295035095-1nqqfdnkllmirgufmddikdiqqk36rvtj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toukir.tasbeeh.pro",
+            "certificate_hash": "a737101e92556018ab00c2e677bae009dd958b0d"
+          }
+        },
+        {
+          "client_id": "525295035095-4pv19766jmd8g1vfbf9h1h2rtu84map9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toukir.tasbeeh.pro",
+            "certificate_hash": "474d5f57fca5d956e6a8d17d12a3e9aa02a456e3"
+          }
+        },
+        {
+          "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RHnWWdLe68TvD8ix_EsUwcm5VlwnoWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525295035095:android:5ccb8a379d79968a474692",
+        "android_client_info": {
+          "package_name": "com.toukir.trackaything"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RHnWWdLe68TvD8ix_EsUwcm5VlwnoWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

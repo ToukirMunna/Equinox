@@ -15,8 +15,8 @@ android {
 
     defaultConfig {
         applicationId = "com.toukir.equinox"
-        minSdk = 29
-        targetSdk = 37
+        minSdk = 26 // Android 8.0 (Oreo) - covers 95%+ of devices with hardware VibrationEffect & Biometrics
+        targetSdk = 34 // Android 14
         versionCode = 1
         versionName = "1.0.0"
 

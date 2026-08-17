@@ -4,6 +4,15 @@ This document tracks all changes, architectural refactors, feature implementatio
 
 ---
 
+### [2026-08-17 09:12 PM] - Professional GitHub README Documentation
+- **Files Modified/Created**:
+  - [`README.md`](file:///C:/Users/Administrator/Documents/Equinox/README.md)
+  - [`LOGS.md`](file:///C:/Users/Administrator/Documents/Equinox/LOGS.md)
+- **Summary**:
+  - Authored GitHub documentation covering core feature suite, 9-stage neurological roadmap, architecture breakdown, Nordic Sanctuary design system tokens, directory tree, and build/run instructions.
+
+---
+
 ### [2026-08-17 09:10 PM] - Initial Git Repository Setup & Push
 - **Remote Repository**: `https://github.com/ToukirMunna/Equinox.git`
 - **Branch**: `main`

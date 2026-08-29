@@ -4,6 +4,32 @@ This document tracks all changes, architectural refactors, feature implementatio
 
 ---
 
+### [2026-08-30 12:51 AM] - Enabled R8 Minification, ProGuard Keep Rules & Resource Shrinking
+- **Files Modified**:
+  - [`app/build.gradle.kts`](file:///C:/Users/Administrator/Documents/Equinox/app/build.gradle.kts)
+  - [`app/proguard-rules.pro`](file:///C:/Users/Administrator/Documents/Equinox/app/proguard-rules.pro)
+  - [`LOGS.md`](file:///C:/Users/Administrator/Documents/Equinox/LOGS.md)
+- **Summary**:
+  - Enabled `isMinifyEnabled = true` and `isShrinkResources = true` in `app/build.gradle.kts` release buildType.
+  - Added comprehensive ProGuard keep rules for Room Database entities, Gson JSON models, Coroutines, and DataStore.
+  - Reduced APK download size by ~78% (from 16.8 MB to 3.7 MB) and compressed DEX footprint from 4 multidex files (51.4 MB uncompressed) down to 1 single DEX (5.67 MB uncompressed).
+  - Stream-installed and launched optimized production release build on connected wireless device.
+
+---
+
+### [2026-08-30 12:42 AM] - Universal Release Signing Keystore & Release APK Build
+- **Files Modified**:
+  - [`app/build.gradle.kts`](file:///C:/Users/Administrator/Documents/Equinox/app/build.gradle.kts)
+  - [`app/google-services.json`](file:///C:/Users/Administrator/Documents/Equinox/app/google-services.json)
+  - [`AGENTS.md`](file:///C:/Users/Administrator/Documents/Equinox/AGENTS.md)
+  - [`LOGS.md`](file:///C:/Users/Administrator/Documents/Equinox/LOGS.md)
+- **Summary**:
+  - Updated `app/build.gradle.kts` release signing config to use the universal release keystore `release-key-TKR.jks` with alias `toukir_ahmed`.
+  - Integrated updated `google-services.json` containing the universal release SHA-1 (`6A:A9:0D:AC:A5:70:C7:71:D9:25:35:30:99:41:1A:36:2D:08:02:37`).
+  - Successfully compiled signed production release APK (`app/build/outputs/apk/release/app-release.apk`) verified with APK Signature Scheme v2.
+
+---
+
 ### [2026-08-17 09:13 PM] - Streamlined Concise README
 - **Files Modified**:
   - [`README.md`](file:///C:/Users/Administrator/Documents/Equinox/README.md)

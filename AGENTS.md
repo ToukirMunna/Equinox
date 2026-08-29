@@ -222,12 +222,12 @@ The roadmap represents the biological restoration of dopamine D2 receptors, pref
 - **SHA-1**: `59:67:11:DD:70:23:DC:1E:51:7B:75:B9:99:CF:9F:31:AC:C5:D7:81`
 - **SHA-256**: `23:DE:3A:59:47:56:60:F8:E6:D4:9E:07:1D:38:6D:6B:30:6E:8F:6C:32:A3:87:1D:6C:A9:27:77:DB:8C:E8:5B`
 
-### Release Keystore
-- **Location**: `app/equinox-release-key.jks`
-- **Alias**: `equinox_release`
-- **Store & Key Password**: `equinox123456`
-- **SHA-1**: `44:BA:AA:01:BE:7A:3E:02:B6:DC:1A:36:6F:14:1B:DF:41:F4:11:4C`
-- **SHA-256**: `89:47:FC:86:2B:9F:CD:AC:AE:D4:25:AF:FA:5E:A5:CF:CC:07:71:6A:27:4E:1C:42:AE:F4:38:59:1A:0E:2C:1B`
+### Universal Release Keystore
+- **Location**: `release-key-TKR.jks` (Project Root)
+- **Alias**: `toukir_ahmed`
+- **Store & Key Password**: `toukir_ahmed`
+- **SHA-1**: `6A:A9:0D:AC:A5:70:C7:71:D9:25:35:30:99:41:1A:36:2D:08:02:37`
+- **SHA-256**: `62:97:62:E4:BC:FB:DA:F5:49:9F:F1:81:20:1A:FB:D2:D2:8B:5C:58:BC:80:07:26:D1:50:6E:18:5E:EA:17:CF`
 
 ---
 
@@ -237,13 +237,13 @@ The roadmap represents the biological restoration of dopamine D2 receptors, pref
 Equinox/
 ├── AGENTS.md                                           <-- Master codebase reference & AI instructions (ALWAYS UPDATE!)
 ├── LOGS.md                                             <-- System change log history (ALWAYS UPDATE!)
-├── RELEASE_KEY_INFO.txt                                <-- Keystore passwords & SHA fingerprints
+├── RELEASE_INFO.md                                     <-- Universal keystore & OAuth credentials reference
+├── release-key-TKR.jks                                 <-- Universal production release signing keystore
 ├── build.gradle.kts                                    <-- Top-level build configuration
 ├── settings.gradle.kts                                 <-- Plugin repositories & project name
 └── app/
     ├── build.gradle.kts                                <-- Android config, dependencies, KSP, Google Services plugin
     ├── google-services.json                            <-- Firebase configuration
-    ├── equinox-release-key.jks                         <-- Production release signing keystore
     └── src/main/
         ├── AndroidManifest.xml                         <-- App permissions (Biometric, Internet) & Activity config
         └── java/com/toukir/equinox/

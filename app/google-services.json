@@ -7,26 +7,18 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:525295035095:android:f123b04986431b0a474692",
+        "mobilesdk_app_id": "1:525295035095:android:bcacb2e437285cec474692",
         "android_client_info": {
-          "package_name": "com.aistudio.streaktracker.aebkqv"
+          "package_name": "com.toukir.equinox"
         }
       },
       "oauth_client": [
         {
-          "client_id": "525295035095-m4klmis4isgp3jn6hdoe5oop1c5um1tt.apps.googleusercontent.com",
+          "client_id": "525295035095-g9e7i48epelkrdljniapggem9hlc56cq.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.aistudio.streaktracker.aebkqv",
-            "certificate_hash": "7077701c396b4df58b8661480c4cdb41587d1d3c"
-          }
-        },
-        {
-          "client_id": "525295035095-nbavk34js6dlf7klkkm8n42atemcvaep.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.aistudio.streaktracker.aebkqv",
-            "certificate_hash": "d6cf75af5eb2eadad511916bc9e62ccc55ddea90"
+            "package_name": "com.toukir.equinox",
+            "certificate_hash": "6aa90daca570c771d925353099411a362d080237"
           }
         },
         {
@@ -52,26 +44,26 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:525295035095:android:bcacb2e437285cec474692",
+        "mobilesdk_app_id": "1:525295035095:android:074d60152e22a3f6474692",
         "android_client_info": {
-          "package_name": "com.toukir.equinox"
+          "package_name": "com.toukir.lumina"
         }
       },
       "oauth_client": [
         {
-          "client_id": "525295035095-78fch037tst16b2nhtnsnlf4i9cq512s.apps.googleusercontent.com",
+          "client_id": "525295035095-318nneb65guedpqv6as2hoiqplea1chp.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.toukir.equinox",
-            "certificate_hash": "44baaa01be7a3e02b6dc1a366f141bdf41f4114c"
+            "package_name": "com.toukir.lumina",
+            "certificate_hash": "596711dd7023dc1e517b75b999cf9f31acc5d781"
           }
         },
         {
-          "client_id": "525295035095-b76dsrg4epl5cn9tn865vnqbqn1ae32m.apps.googleusercontent.com",
+          "client_id": "525295035095-4nj8oaecbvqlfhdcjccholqvujujo2t6.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.toukir.equinox",
-            "certificate_hash": "596711dd7023dc1e517b75b999cf9f31acc5d781"
+            "package_name": "com.toukir.lumina",
+            "certificate_hash": "cf37092c11058ee68f221281dae69148f2b4209c"
           }
         },
         {
@@ -150,6 +142,43 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:525295035095:android:88e9ca3df6de33c2474692",
+        "android_client_info": {
+          "package_name": "com.toukir.quicknotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525295035095-squhfjmj76u9rs00q5j7l53b8km2emkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toukir.quicknotes",
+            "certificate_hash": "596711dd7023dc1e517b75b999cf9f31acc5d781"
+          }
+        },
+        {
+          "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RHnWWdLe68TvD8ix_EsUwcm5VlwnoWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:525295035095:android:e1ee108d5c5e9f53474692",
         "android_client_info": {
           "package_name": "com.toukir.tasbeeh.pro"
@@ -195,12 +224,57 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:525295035095:android:5ccb8a379d79968a474692",
+        "mobilesdk_app_id": "1:525295035095:android:549000db4b27fdaf474692",
         "android_client_info": {
-          "package_name": "com.toukir.trackaything"
+          "package_name": "com.toukir.usagehistory"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "525295035095-oc8ujooq8g498hn1ddrjbuovp1v09jve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toukir.usagehistory",
+            "certificate_hash": "d02842639e7e1ffd886c6a5d6ebec9b0253f6397"
+          }
+        },
+        {
+          "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RHnWWdLe68TvD8ix_EsUwcm5VlwnoWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525295035095:android:87d6377ebf2a8d7b474692",
+        "android_client_info": {
+          "package_name": "com.toukir.usagehistory.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525295035095-cdm41p5p450eu08ld922p8f96lrh5pbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toukir.usagehistory.debug",
+            "certificate_hash": "596711dd7023dc1e517b75b999cf9f31acc5d781"
+          }
+        },
         {
           "client_id": "525295035095-bpc6s47j5htfd04n7m9j0cevmg0tvrv0.apps.googleusercontent.com",
           "client_type": 3

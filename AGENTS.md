@@ -11,10 +11,10 @@
 > 4. **🗄️ Firestore Namespacing Invariant**:
 >    - All remote cloud collections and documents must live strictly under `equinox/{userId}/...` (never top-level `users/` or root un-namespaced collections) to ensure zero collisions with other apps sharing the Firebase project.
 > 5. **🚀 Quick Build & Run Commands (PowerShell)**:
->    - **Java 17 JBR Path**: `$env:JAVA_HOME = "C:\Program Files\Android\Android Studio\jbr"; $env:PATH = "$env:JAVA_HOME\bin;$env:PATH"`
+>    - **Java 21 Standalone Path**: `$env:JAVA_HOME = "C:\Java\jdk-21"; $env:PATH = "$env:JAVA_HOME\bin;$env:PATH"`
 >    - **Compile Debug APK**: `.\gradlew.bat assembleDebug`
->    - **Stream Install to Connected Phone**: `& "C:\Users\Administrator\AppData\Local\Android\Sdk\platform-tools\adb.exe" install -r "app\build\outputs\apk\debug\app-debug.apk"`
->    - **Launch App on Phone**: `& "C:\Users\Administrator\AppData\Local\Android\Sdk\platform-tools\adb.exe" shell am start -n com.toukir.equinox/.ui.MainActivity`
+>    - **Stream Install to Connected Phone**: `& "C:\Android\Sdk\platform-tools\adb.exe" install -r "app\build\outputs\apk\debug\app-debug.apk"`
+>    - **Launch App on Phone**: `& "C:\Android\Sdk\platform-tools\adb.exe" shell am start -n com.toukir.equinox/.ui.MainActivity`
 
 ---
 
